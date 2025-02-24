@@ -1,0 +1,28 @@
+/* Global styles */
+body {
+  font-family: "Arial", sans-serif;
+}
+
+.bg-blue-100 {
+  background-color: #ebf8ff;
+}
+
+.bg-gray-200 {
+  background-color: #edf2f7;
+}
+
+.dark {
+  background-color: #1a202c;
+  color: white;
+}
+
+button {
+  background-color: #1a202c !important;
+  color: white !important;
+  border: none;
+}
+
+button:focus,
+button:active {
+  background-color: #1a202c !important;
+}
